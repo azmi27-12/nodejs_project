@@ -11,7 +11,7 @@ Per fare la segnalazione è necessario inserire il cap, la città e un immagine 
 
 Se si esegue uno dei comandi di delete le foto del posto da cancellare verranno cancellate dalla cartella. Stessa cosa se si effettua un operazione di update , la foto vecchia viene cancellata e sostituita da quella nuova.
 
-![Scheme](https://github.com/azmi27-12/php-mysql/blob/main/screenshoot/operazioni.PNG)
+![Scheme](https://github.com/azmi27-12/node_project/blob/main/screenshoot/operazioni.PNG)
 
 
 ### Per il funzionametno è necessario scaricare: express, dotenv-webpack, path, fs, mysql

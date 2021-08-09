@@ -13,5 +13,5 @@ Se si esegue uno dei comandi di delete le foto del posto da cancellare verranno 
 
 ![Scheme](https://github.com/azmi27-12/nodejs_project/blob/master/screenshoot/operazioni.PNG)
 
-### Per il funzionametno è necessario scaricare: express, dotenv-webpack, path, fs, mysql
+### Per il funzionametno è necessario scaricare tramite npm : express, dotenv-webpack, path, fs, mysql, multer
 
